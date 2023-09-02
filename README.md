@@ -1,4 +1,4 @@
-# Metal Defect Classification Using Deep Learning
+# Metal Surface Defects Classification Using Deep Learning
 
 Implemented AlexNet,VGG16,resnet34 & resnet50 architectures to classify different metal surface defects.
 
